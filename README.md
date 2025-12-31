@@ -60,7 +60,7 @@ The dashboard includes interactive and visually intuitive components such as:
 
 ## 🖼 Dashboard Preview
 
-![Road Accident Dashboard](../images/Dashboard-1.png)
+![Road Accident Dashboard](images/Dashboard-1.png)
 
 ---
 
